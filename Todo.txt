@@ -1,0 +1,52 @@
+
+
+
+ToDo:
+	- Eco System
+	- Map type generator
+	- Custom buildings
+	- User Interface
+	- bewegbare Kamera ?
+	- weitere Map generation?
+	- Civilisations regeln(Hunger, nöte, Material bedarf, kosten)
+	- Fancy As Shit grafiken:P
+	- Thermals schwestern Vergenusswurzeln:P
+	
+
+Map tile types:
+
+Grasland:
+	- Tiere
+	- Farmen
+	- civilisation
+
+Wüste:
+	- Sand
+	- Silikat
+
+Meer:
+	- Fische
+	- Clay
+	- Adv Öl
+
+See:
+	- Fische
+	- Drinkwasser
+
+Sumpf: 
+	- Kräuter
+	- Pilze
+	- Holz
+
+Öl-vorkommen:
+	- Öl
+
+Erzland:
+	- Eisen
+	- Gold
+	- Schwefel
+
+Wald:
+	- Holz
+	- Kräuter
+	- Tiere
