@@ -64,8 +64,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\MapSpawner.cs" />
+    <Compile Include="Assets\Scripts\McMap.cs" />
     <Compile Include="Assets\Scripts\MouseManager.cs" />
     <Compile Include="Assets\Scripts\TileInfo.cs" />
+    <Compile Include="Assets\Scripts\UI\Seed.cs" />
+    <Compile Include="Assets\Scripts\UiHandler.cs" />
     <Compile Include="Assets\Scripts\ValueMap.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
